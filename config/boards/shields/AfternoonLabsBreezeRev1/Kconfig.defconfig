@@ -1,8 +1,8 @@
 
-if SHIELD_BREEZE_REV1_LEFT
+if SHIELD_BREEZE_REV1_RIGHT
 
 config ZMK_KEYBOARD_NAME
-	default "Breeze Keyboard"
+	default "Breeze Keyboard R2"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
